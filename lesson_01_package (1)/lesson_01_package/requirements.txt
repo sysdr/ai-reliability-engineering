@@ -1,0 +1,5 @@
+# Test runner
+pytest>=9.1.1
+
+# Dataclasses are stdlib in Python 3.7+ — no extra package needed.
+# Add real dependencies here as the course progresses (e.g. openai, langchain).

@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Testing
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+*.lcov
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+
+# Docker
+.dockerignore
+
+# Istio / service mesh
+istio*/
+*.istio
+*.mesh
+
+# Secrets & keys — NEVER commit these
+.env
+.env.*
+*.env
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+credentials/
+*_secret*
+*_api_key*
+
+# IDE / OS
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+.cursor/
+
+# Logs
+*.log
+logs/
