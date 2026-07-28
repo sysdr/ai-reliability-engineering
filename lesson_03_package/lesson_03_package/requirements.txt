@@ -1,0 +1,4 @@
+# Day 3 - Embeddings lesson dependencies
+# Runtime (lesson_code.py) uses the Python standard library only.
+# Tests:
+pytest>=8.3.0,<10
