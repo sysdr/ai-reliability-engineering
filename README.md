@@ -1,2 +1,2 @@
 # ai-reliability-engineering
-AI Reliability Engineering - ARIA
+AI Reliability Engineering 
