@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+dashboard.html
+output/
+.cache/
+.git/
+.gitignore
