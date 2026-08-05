@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+output/
+dashboard.html
+*.pyc
+.git/
+.gitignore
+docker_env.sh
